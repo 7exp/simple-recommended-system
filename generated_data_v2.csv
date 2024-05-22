@@ -1,0 +1,1001 @@
+user_id,tag_liked
+1,['Can']
+2,['Paper']
+3,"['Bottle Cap', 'Straw']"
+4,"['Can', 'Aluminium Foil', 'Cartoon']"
+5,['Bottle']
+6,"['Straw', 'Wrapper']"
+7,['Straw']
+8,"['Plastic Bag', 'Straw', 'Cartoon']"
+9,"['Bottle', 'Straw']"
+10,"['Wrapper', 'Can', 'Cartoon']"
+11,['Bottle']
+12,['Paper']
+13,"['Paper', 'Aluminium Foil', 'Wrapper']"
+14,['Paper']
+15,['Can']
+16,['Wrapper']
+17,"['Cartoon', 'Cup', 'Bottle Cap']"
+18,"['Aluminium Foil', 'Can', 'Wrapper']"
+19,"['Wrapper', 'Bottle']"
+20,['Can']
+21,['Cartoon']
+22,"['Wrapper', 'Aluminium Foil', 'Cup']"
+23,"['Plastic Bag', 'Paper']"
+24,"['Bottle', 'Cartoon']"
+25,['Cartoon']
+26,"['Wrapper', 'Cup']"
+27,"['Aluminium Foil', 'Wrapper', 'Cartoon']"
+28,['Wrapper']
+29,['Plastic Bag']
+30,"['Bottle', 'Straw', 'Wrapper']"
+31,"['Aluminium Foil', 'Cartoon']"
+32,"['Straw', 'Cartoon', 'Wrapper']"
+33,"['Cartoon', 'Straw', 'Plastic Bag']"
+34,"['Can', 'Wrapper']"
+35,"['Bottle', 'Cup', 'Paper']"
+36,"['Straw', 'Aluminium Foil', 'Cup']"
+37,"['Aluminium Foil', 'Bottle']"
+38,['Paper']
+39,['Paper']
+40,"['Bottle', 'Aluminium Foil']"
+41,"['Cartoon', 'Plastic Bag']"
+42,"['Plastic Bag', 'Can', 'Wrapper']"
+43,['Can']
+44,"['Aluminium Foil', 'Wrapper']"
+45,['Bottle Cap']
+46,['Aluminium Foil']
+47,['Bottle Cap']
+48,['Can']
+49,"['Straw', 'Can', 'Cartoon']"
+50,['Cartoon']
+51,['Plastic Bag']
+52,"['Bottle', 'Plastic Bag']"
+53,"['Wrapper', 'Cup']"
+54,['Wrapper']
+55,['Plastic Bag']
+56,"['Wrapper', 'Paper', 'Bottle']"
+57,['Bottle Cap']
+58,['Aluminium Foil']
+59,"['Plastic Bag', 'Can', 'Bottle Cap']"
+60,['Bottle Cap']
+61,['Can']
+62,"['Straw', 'Can', 'Cartoon']"
+63,"['Cartoon', 'Plastic Bag']"
+64,['Bottle Cap']
+65,['Bottle Cap']
+66,['Bottle Cap']
+67,"['Plastic Bag', 'Cartoon']"
+68,"['Cup', 'Bottle Cap']"
+69,['Aluminium Foil']
+70,"['Aluminium Foil', 'Cartoon']"
+71,"['Bottle Cap', 'Aluminium Foil']"
+72,['Paper']
+73,['Bottle']
+74,"['Cup', 'Plastic Bag']"
+75,"['Cup', 'Paper', 'Straw']"
+76,['Plastic Bag']
+77,"['Can', 'Wrapper', 'Bottle Cap']"
+78,"['Cartoon', 'Paper']"
+79,"['Bottle', 'Wrapper']"
+80,"['Plastic Bag', 'Cup', 'Aluminium Foil']"
+81,"['Aluminium Foil', 'Cartoon', 'Bottle']"
+82,['Bottle']
+83,"['Aluminium Foil', 'Bottle']"
+84,"['Paper', 'Cup']"
+85,"['Can', 'Cup', 'Paper']"
+86,"['Bottle', 'Plastic Bag']"
+87,"['Plastic Bag', 'Bottle Cap', 'Cartoon']"
+88,"['Bottle Cap', 'Cartoon']"
+89,['Paper']
+90,"['Bottle Cap', 'Bottle']"
+91,"['Bottle Cap', 'Can']"
+92,['Paper']
+93,['Can']
+94,"['Bottle Cap', 'Straw']"
+95,['Straw']
+96,"['Straw', 'Plastic Bag', 'Wrapper']"
+97,"['Aluminium Foil', 'Cup']"
+98,"['Aluminium Foil', 'Bottle']"
+99,['Bottle']
+100,"['Aluminium Foil', 'Paper']"
+101,"['Can', 'Paper', 'Bottle Cap']"
+102,"['Plastic Bag', 'Cup', 'Wrapper']"
+103,['Wrapper']
+104,['Paper']
+105,['Bottle']
+106,"['Wrapper', 'Bottle Cap']"
+107,['Aluminium Foil']
+108,['Plastic Bag']
+109,"['Aluminium Foil', 'Wrapper']"
+110,['Aluminium Foil']
+111,['Can']
+112,['Wrapper']
+113,['Wrapper']
+114,"['Paper', 'Plastic Bag']"
+115,['Plastic Bag']
+116,"['Can', 'Bottle', 'Plastic Bag']"
+117,"['Plastic Bag', 'Paper']"
+118,"['Can', 'Cartoon', 'Wrapper']"
+119,"['Straw', 'Paper', 'Can']"
+120,"['Paper', 'Bottle']"
+121,"['Straw', 'Bottle', 'Aluminium Foil']"
+122,['Bottle']
+123,"['Aluminium Foil', 'Can', 'Bottle']"
+124,"['Aluminium Foil', 'Plastic Bag']"
+125,"['Paper', 'Aluminium Foil', 'Bottle']"
+126,"['Aluminium Foil', 'Bottle Cap']"
+127,"['Aluminium Foil', 'Cartoon', 'Bottle Cap']"
+128,"['Plastic Bag', 'Aluminium Foil']"
+129,"['Cup', 'Paper']"
+130,"['Plastic Bag', 'Can', 'Bottle Cap']"
+131,"['Can', 'Bottle', 'Wrapper']"
+132,"['Paper', 'Cartoon']"
+133,"['Cup', 'Plastic Bag']"
+134,['Plastic Bag']
+135,['Bottle']
+136,"['Can', 'Bottle', 'Paper']"
+137,"['Cartoon', 'Wrapper']"
+138,"['Straw', 'Bottle Cap', 'Bottle']"
+139,"['Wrapper', 'Plastic Bag', 'Paper']"
+140,"['Cup', 'Paper']"
+141,"['Paper', 'Straw', 'Cup']"
+142,"['Aluminium Foil', 'Can', 'Paper']"
+143,['Aluminium Foil']
+144,['Bottle']
+145,"['Paper', 'Can', 'Aluminium Foil']"
+146,['Can']
+147,['Aluminium Foil']
+148,"['Plastic Bag', 'Bottle', 'Straw']"
+149,"['Cup', 'Bottle']"
+150,"['Plastic Bag', 'Bottle']"
+151,"['Straw', 'Paper']"
+152,"['Bottle Cap', 'Straw', 'Can']"
+153,"['Wrapper', 'Paper']"
+154,"['Bottle Cap', 'Paper']"
+155,"['Plastic Bag', 'Aluminium Foil']"
+156,['Can']
+157,"['Aluminium Foil', 'Bottle', 'Wrapper']"
+158,"['Wrapper', 'Bottle']"
+159,"['Wrapper', 'Cartoon']"
+160,"['Can', 'Wrapper', 'Bottle']"
+161,"['Straw', 'Bottle', 'Plastic Bag']"
+162,['Aluminium Foil']
+163,['Cartoon']
+164,"['Plastic Bag', 'Bottle', 'Can']"
+165,['Straw']
+166,['Cartoon']
+167,"['Wrapper', 'Can', 'Paper']"
+168,"['Can', 'Bottle Cap', 'Bottle']"
+169,"['Paper', 'Can', 'Bottle Cap']"
+170,"['Paper', 'Bottle Cap']"
+171,['Cup']
+172,"['Cup', 'Can', 'Cartoon']"
+173,"['Plastic Bag', 'Cup', 'Wrapper']"
+174,['Aluminium Foil']
+175,['Paper']
+176,"['Can', 'Wrapper', 'Cup']"
+177,['Can']
+178,['Aluminium Foil']
+179,['Paper']
+180,['Paper']
+181,"['Aluminium Foil', 'Bottle Cap']"
+182,"['Can', 'Straw', 'Aluminium Foil']"
+183,"['Paper', 'Aluminium Foil']"
+184,['Cup']
+185,"['Paper', 'Cup']"
+186,"['Aluminium Foil', 'Cup']"
+187,['Paper']
+188,"['Bottle', 'Cartoon', 'Straw']"
+189,['Bottle Cap']
+190,['Aluminium Foil']
+191,"['Plastic Bag', 'Wrapper', 'Cup']"
+192,"['Plastic Bag', 'Bottle Cap']"
+193,"['Bottle', 'Can']"
+194,['Can']
+195,"['Cup', 'Bottle']"
+196,"['Bottle Cap', 'Bottle', 'Cup']"
+197,"['Wrapper', 'Cartoon', 'Plastic Bag']"
+198,['Wrapper']
+199,"['Can', 'Aluminium Foil']"
+200,"['Paper', 'Plastic Bag']"
+201,"['Wrapper', 'Bottle', 'Straw']"
+202,['Bottle Cap']
+203,"['Bottle', 'Bottle Cap']"
+204,"['Straw', 'Cup', 'Wrapper']"
+205,"['Bottle Cap', 'Can']"
+206,['Cartoon']
+207,"['Cup', 'Plastic Bag']"
+208,['Aluminium Foil']
+209,['Bottle Cap']
+210,['Aluminium Foil']
+211,['Straw']
+212,"['Bottle', 'Plastic Bag']"
+213,"['Straw', 'Bottle']"
+214,"['Cup', 'Aluminium Foil']"
+215,['Aluminium Foil']
+216,"['Straw', 'Paper', 'Bottle Cap']"
+217,"['Cartoon', 'Cup']"
+218,['Bottle Cap']
+219,"['Bottle', 'Plastic Bag', 'Straw']"
+220,"['Aluminium Foil', 'Wrapper']"
+221,"['Cup', 'Plastic Bag', 'Straw']"
+222,"['Aluminium Foil', 'Cartoon', 'Wrapper']"
+223,"['Plastic Bag', 'Bottle Cap', 'Cartoon']"
+224,"['Can', 'Aluminium Foil', 'Cup']"
+225,"['Wrapper', 'Bottle', 'Cartoon']"
+226,['Bottle Cap']
+227,"['Paper', 'Wrapper']"
+228,"['Plastic Bag', 'Paper']"
+229,"['Plastic Bag', 'Can', 'Cartoon']"
+230,['Plastic Bag']
+231,"['Cup', 'Plastic Bag', 'Aluminium Foil']"
+232,"['Paper', 'Wrapper']"
+233,['Wrapper']
+234,['Cup']
+235,['Bottle']
+236,"['Straw', 'Aluminium Foil']"
+237,"['Plastic Bag', 'Can', 'Wrapper']"
+238,['Straw']
+239,"['Aluminium Foil', 'Wrapper']"
+240,"['Plastic Bag', 'Straw', 'Aluminium Foil']"
+241,['Plastic Bag']
+242,"['Plastic Bag', 'Aluminium Foil']"
+243,"['Plastic Bag', 'Wrapper']"
+244,"['Can', 'Cup']"
+245,"['Plastic Bag', 'Paper']"
+246,"['Bottle Cap', 'Cartoon', 'Aluminium Foil']"
+247,"['Wrapper', 'Cartoon', 'Bottle Cap']"
+248,"['Cartoon', 'Wrapper']"
+249,"['Straw', 'Cartoon', 'Can']"
+250,"['Aluminium Foil', 'Bottle', 'Cup']"
+251,['Cup']
+252,['Wrapper']
+253,['Bottle']
+254,"['Plastic Bag', 'Aluminium Foil', 'Cup']"
+255,"['Can', 'Straw', 'Cup']"
+256,['Cartoon']
+257,"['Wrapper', 'Bottle', 'Plastic Bag']"
+258,"['Bottle Cap', 'Aluminium Foil', 'Straw']"
+259,"['Straw', 'Aluminium Foil', 'Paper']"
+260,['Can']
+261,"['Straw', 'Cartoon', 'Wrapper']"
+262,['Paper']
+263,"['Bottle Cap', 'Wrapper']"
+264,"['Bottle Cap', 'Aluminium Foil']"
+265,"['Plastic Bag', 'Cup', 'Aluminium Foil']"
+266,"['Cup', 'Aluminium Foil']"
+267,"['Cup', 'Wrapper', 'Cartoon']"
+268,"['Straw', 'Can']"
+269,['Plastic Bag']
+270,"['Cartoon', 'Aluminium Foil', 'Bottle Cap']"
+271,['Straw']
+272,"['Bottle', 'Paper', 'Plastic Bag']"
+273,"['Cup', 'Paper']"
+274,"['Cup', 'Cartoon', 'Can']"
+275,['Wrapper']
+276,['Bottle']
+277,"['Aluminium Foil', 'Plastic Bag']"
+278,"['Straw', 'Aluminium Foil', 'Cartoon']"
+279,"['Aluminium Foil', 'Bottle Cap']"
+280,['Aluminium Foil']
+281,['Bottle Cap']
+282,"['Bottle Cap', 'Can', 'Plastic Bag']"
+283,['Bottle']
+284,"['Aluminium Foil', 'Straw']"
+285,"['Cup', 'Bottle Cap']"
+286,['Bottle Cap']
+287,"['Can', 'Aluminium Foil']"
+288,"['Plastic Bag', 'Bottle Cap']"
+289,"['Bottle Cap', 'Straw']"
+290,"['Wrapper', 'Straw']"
+291,['Cartoon']
+292,"['Bottle Cap', 'Cartoon']"
+293,"['Aluminium Foil', 'Paper', 'Bottle']"
+294,"['Can', 'Cartoon']"
+295,"['Wrapper', 'Bottle', 'Straw']"
+296,['Bottle']
+297,"['Bottle Cap', 'Can']"
+298,"['Cartoon', 'Paper', 'Straw']"
+299,"['Bottle', 'Plastic Bag', 'Paper']"
+300,['Paper']
+301,"['Straw', 'Cup']"
+302,"['Can', 'Cup']"
+303,"['Bottle', 'Bottle Cap']"
+304,['Cup']
+305,"['Paper', 'Cartoon', 'Straw']"
+306,['Cartoon']
+307,"['Cup', 'Can', 'Plastic Bag']"
+308,['Plastic Bag']
+309,"['Aluminium Foil', 'Bottle Cap']"
+310,"['Can', 'Bottle Cap']"
+311,"['Cup', 'Cartoon']"
+312,"['Can', 'Bottle']"
+313,"['Cartoon', 'Can', 'Plastic Bag']"
+314,"['Bottle', 'Cartoon']"
+315,['Bottle']
+316,"['Can', 'Straw']"
+317,['Aluminium Foil']
+318,['Bottle Cap']
+319,"['Cartoon', 'Aluminium Foil', 'Cup']"
+320,['Wrapper']
+321,['Can']
+322,"['Bottle Cap', 'Plastic Bag']"
+323,"['Can', 'Cartoon']"
+324,"['Bottle Cap', 'Plastic Bag', 'Paper']"
+325,['Straw']
+326,"['Paper', 'Aluminium Foil', 'Plastic Bag']"
+327,"['Straw', 'Cartoon', 'Bottle']"
+328,['Bottle Cap']
+329,"['Plastic Bag', 'Bottle']"
+330,"['Bottle Cap', 'Paper']"
+331,"['Paper', 'Plastic Bag']"
+332,"['Bottle', 'Wrapper', 'Can']"
+333,['Paper']
+334,['Plastic Bag']
+335,"['Plastic Bag', 'Paper', 'Can']"
+336,['Bottle Cap']
+337,"['Paper', 'Bottle', 'Wrapper']"
+338,"['Plastic Bag', 'Cartoon', 'Straw']"
+339,"['Paper', 'Can', 'Aluminium Foil']"
+340,['Wrapper']
+341,"['Bottle Cap', 'Cup']"
+342,"['Can', 'Bottle Cap']"
+343,"['Plastic Bag', 'Can', 'Cartoon']"
+344,['Bottle']
+345,['Cartoon']
+346,"['Aluminium Foil', 'Bottle']"
+347,"['Cup', 'Aluminium Foil', 'Bottle Cap']"
+348,"['Wrapper', 'Aluminium Foil', 'Straw']"
+349,"['Straw', 'Wrapper']"
+350,"['Cup', 'Bottle Cap', 'Aluminium Foil']"
+351,"['Can', 'Bottle', 'Aluminium Foil']"
+352,"['Bottle Cap', 'Can', 'Wrapper']"
+353,"['Can', 'Paper']"
+354,"['Aluminium Foil', 'Paper']"
+355,['Aluminium Foil']
+356,"['Straw', 'Bottle Cap']"
+357,['Bottle']
+358,['Paper']
+359,"['Paper', 'Bottle']"
+360,"['Can', 'Wrapper']"
+361,"['Cartoon', 'Can', 'Bottle']"
+362,['Can']
+363,['Bottle Cap']
+364,"['Cup', 'Can']"
+365,"['Aluminium Foil', 'Can']"
+366,"['Straw', 'Cartoon']"
+367,['Plastic Bag']
+368,['Bottle Cap']
+369,['Cartoon']
+370,"['Wrapper', 'Plastic Bag']"
+371,['Can']
+372,"['Aluminium Foil', 'Cartoon', 'Wrapper']"
+373,"['Can', 'Paper']"
+374,"['Paper', 'Plastic Bag']"
+375,"['Straw', 'Wrapper', 'Bottle Cap']"
+376,['Bottle Cap']
+377,"['Wrapper', 'Cartoon']"
+378,"['Bottle', 'Wrapper']"
+379,"['Bottle Cap', 'Aluminium Foil', 'Straw']"
+380,"['Cup', 'Aluminium Foil']"
+381,['Aluminium Foil']
+382,"['Bottle', 'Paper']"
+383,"['Wrapper', 'Aluminium Foil', 'Paper']"
+384,"['Bottle Cap', 'Aluminium Foil']"
+385,"['Can', 'Wrapper', 'Cup']"
+386,['Can']
+387,"['Bottle', 'Can', 'Paper']"
+388,"['Cartoon', 'Wrapper']"
+389,"['Straw', 'Paper']"
+390,['Wrapper']
+391,['Plastic Bag']
+392,['Bottle Cap']
+393,"['Plastic Bag', 'Aluminium Foil', 'Paper']"
+394,"['Paper', 'Wrapper', 'Aluminium Foil']"
+395,"['Aluminium Foil', 'Plastic Bag', 'Cup']"
+396,"['Straw', 'Bottle Cap']"
+397,['Paper']
+398,"['Bottle', 'Wrapper']"
+399,['Wrapper']
+400,"['Aluminium Foil', 'Bottle']"
+401,"['Straw', 'Cup', 'Wrapper']"
+402,['Wrapper']
+403,"['Bottle Cap', 'Wrapper', 'Plastic Bag']"
+404,"['Plastic Bag', 'Paper']"
+405,"['Wrapper', 'Bottle Cap', 'Aluminium Foil']"
+406,"['Aluminium Foil', 'Bottle', 'Straw']"
+407,['Plastic Bag']
+408,"['Cartoon', 'Bottle Cap', 'Paper']"
+409,"['Cup', 'Paper', 'Cartoon']"
+410,"['Straw', 'Cup', 'Cartoon']"
+411,['Aluminium Foil']
+412,"['Cartoon', 'Aluminium Foil']"
+413,"['Cartoon', 'Bottle Cap']"
+414,"['Wrapper', 'Bottle']"
+415,"['Straw', 'Wrapper']"
+416,"['Straw', 'Plastic Bag']"
+417,"['Aluminium Foil', 'Bottle', 'Paper']"
+418,"['Wrapper', 'Paper']"
+419,"['Straw', 'Paper']"
+420,"['Bottle', 'Aluminium Foil']"
+421,"['Paper', 'Aluminium Foil', 'Bottle']"
+422,"['Bottle Cap', 'Paper', 'Cup']"
+423,"['Wrapper', 'Can']"
+424,"['Straw', 'Plastic Bag', 'Paper']"
+425,"['Cartoon', 'Plastic Bag']"
+426,"['Cartoon', 'Wrapper']"
+427,"['Aluminium Foil', 'Cup', 'Plastic Bag']"
+428,"['Cartoon', 'Can', 'Straw']"
+429,"['Plastic Bag', 'Paper', 'Bottle Cap']"
+430,['Cup']
+431,"['Paper', 'Straw']"
+432,"['Aluminium Foil', 'Bottle Cap']"
+433,['Wrapper']
+434,"['Cup', 'Bottle', 'Can']"
+435,"['Can', 'Wrapper']"
+436,"['Wrapper', 'Bottle Cap']"
+437,"['Cartoon', 'Paper']"
+438,['Wrapper']
+439,"['Aluminium Foil', 'Wrapper']"
+440,['Paper']
+441,"['Bottle Cap', 'Paper']"
+442,"['Wrapper', 'Bottle Cap', 'Paper']"
+443,"['Aluminium Foil', 'Bottle Cap']"
+444,"['Bottle Cap', 'Can']"
+445,['Cup']
+446,"['Cup', 'Bottle', 'Can']"
+447,"['Bottle Cap', 'Paper', 'Straw']"
+448,['Cartoon']
+449,"['Aluminium Foil', 'Bottle']"
+450,"['Cartoon', 'Cup', 'Bottle Cap']"
+451,"['Bottle Cap', 'Bottle', 'Cup']"
+452,['Wrapper']
+453,"['Aluminium Foil', 'Cup', 'Straw']"
+454,"['Bottle', 'Cartoon']"
+455,['Paper']
+456,['Cup']
+457,['Bottle Cap']
+458,['Straw']
+459,"['Cartoon', 'Cup', 'Straw']"
+460,"['Aluminium Foil', 'Paper']"
+461,"['Bottle Cap', 'Aluminium Foil', 'Plastic Bag']"
+462,['Straw']
+463,"['Wrapper', 'Straw']"
+464,"['Bottle', 'Aluminium Foil', 'Bottle Cap']"
+465,['Can']
+466,"['Bottle Cap', 'Plastic Bag']"
+467,"['Straw', 'Paper']"
+468,"['Paper', 'Bottle Cap', 'Can']"
+469,"['Paper', 'Aluminium Foil', 'Plastic Bag']"
+470,"['Cup', 'Can', 'Cartoon']"
+471,"['Cartoon', 'Aluminium Foil']"
+472,['Plastic Bag']
+473,['Can']
+474,"['Straw', 'Wrapper']"
+475,['Paper']
+476,"['Bottle Cap', 'Cup', 'Straw']"
+477,['Paper']
+478,"['Wrapper', 'Aluminium Foil']"
+479,"['Wrapper', 'Straw', 'Plastic Bag']"
+480,['Bottle']
+481,"['Aluminium Foil', 'Bottle']"
+482,"['Cartoon', 'Bottle']"
+483,"['Cartoon', 'Wrapper', 'Bottle']"
+484,['Cup']
+485,"['Bottle', 'Plastic Bag', 'Cartoon']"
+486,"['Can', 'Bottle Cap']"
+487,['Bottle Cap']
+488,"['Wrapper', 'Can', 'Bottle']"
+489,"['Cup', 'Bottle Cap']"
+490,"['Bottle', 'Straw', 'Cup']"
+491,"['Paper', 'Bottle', 'Cartoon']"
+492,"['Plastic Bag', 'Aluminium Foil', 'Bottle']"
+493,"['Bottle', 'Bottle Cap', 'Plastic Bag']"
+494,"['Bottle Cap', 'Wrapper']"
+495,['Aluminium Foil']
+496,"['Cup', 'Straw']"
+497,"['Wrapper', 'Bottle Cap']"
+498,"['Plastic Bag', 'Wrapper', 'Bottle']"
+499,['Aluminium Foil']
+500,"['Cartoon', 'Can']"
+501,"['Paper', 'Bottle Cap', 'Plastic Bag']"
+502,['Straw']
+503,"['Cup', 'Bottle', 'Plastic Bag']"
+504,"['Wrapper', 'Plastic Bag', 'Paper']"
+505,['Can']
+506,"['Bottle', 'Bottle Cap']"
+507,['Bottle']
+508,['Can']
+509,"['Wrapper', 'Paper', 'Aluminium Foil']"
+510,"['Aluminium Foil', 'Plastic Bag']"
+511,"['Paper', 'Bottle Cap']"
+512,"['Wrapper', 'Can']"
+513,"['Cup', 'Cartoon', 'Bottle Cap']"
+514,"['Cup', 'Wrapper', 'Aluminium Foil']"
+515,"['Plastic Bag', 'Straw']"
+516,"['Bottle', 'Bottle Cap']"
+517,['Cup']
+518,"['Cup', 'Plastic Bag']"
+519,['Bottle Cap']
+520,"['Wrapper', 'Paper', 'Aluminium Foil']"
+521,"['Aluminium Foil', 'Wrapper', 'Bottle Cap']"
+522,"['Cartoon', 'Cup', 'Plastic Bag']"
+523,['Can']
+524,['Straw']
+525,"['Paper', 'Cup', 'Straw']"
+526,['Plastic Bag']
+527,"['Bottle', 'Paper', 'Wrapper']"
+528,"['Straw', 'Paper']"
+529,['Cup']
+530,['Straw']
+531,['Plastic Bag']
+532,"['Bottle Cap', 'Can']"
+533,"['Can', 'Straw']"
+534,['Paper']
+535,"['Cartoon', 'Cup']"
+536,['Straw']
+537,"['Bottle Cap', 'Paper', 'Cup']"
+538,['Cup']
+539,"['Straw', 'Can', 'Wrapper']"
+540,['Can']
+541,"['Wrapper', 'Paper', 'Straw']"
+542,['Paper']
+543,"['Cup', 'Cartoon']"
+544,['Can']
+545,['Plastic Bag']
+546,"['Paper', 'Straw', 'Can']"
+547,"['Wrapper', 'Cup']"
+548,"['Cup', 'Plastic Bag', 'Bottle']"
+549,"['Wrapper', 'Bottle', 'Aluminium Foil']"
+550,"['Bottle', 'Paper', 'Bottle Cap']"
+551,['Plastic Bag']
+552,['Straw']
+553,['Paper']
+554,['Straw']
+555,"['Aluminium Foil', 'Wrapper', 'Plastic Bag']"
+556,"['Straw', 'Cup']"
+557,['Bottle Cap']
+558,['Plastic Bag']
+559,"['Paper', 'Aluminium Foil']"
+560,"['Bottle', 'Cartoon']"
+561,"['Aluminium Foil', 'Cartoon']"
+562,"['Cup', 'Paper', 'Bottle Cap']"
+563,['Paper']
+564,['Straw']
+565,"['Bottle Cap', 'Cartoon', 'Bottle']"
+566,['Wrapper']
+567,"['Paper', 'Cup']"
+568,['Bottle Cap']
+569,['Bottle']
+570,['Bottle']
+571,"['Paper', 'Aluminium Foil']"
+572,['Wrapper']
+573,"['Cartoon', 'Cup', 'Bottle']"
+574,['Can']
+575,['Paper']
+576,['Bottle']
+577,"['Cartoon', 'Plastic Bag']"
+578,['Plastic Bag']
+579,['Bottle']
+580,"['Plastic Bag', 'Bottle Cap', 'Can']"
+581,"['Straw', 'Aluminium Foil', 'Bottle']"
+582,"['Wrapper', 'Aluminium Foil', 'Cup']"
+583,"['Can', 'Cup', 'Plastic Bag']"
+584,"['Wrapper', 'Straw']"
+585,['Cartoon']
+586,"['Paper', 'Bottle']"
+587,"['Cup', 'Bottle Cap', 'Plastic Bag']"
+588,"['Wrapper', 'Aluminium Foil']"
+589,"['Can', 'Bottle', 'Aluminium Foil']"
+590,['Straw']
+591,"['Bottle', 'Aluminium Foil']"
+592,"['Cup', 'Plastic Bag', 'Bottle']"
+593,['Cup']
+594,"['Aluminium Foil', 'Paper', 'Plastic Bag']"
+595,"['Paper', 'Straw', 'Bottle']"
+596,"['Paper', 'Bottle Cap', 'Plastic Bag']"
+597,"['Paper', 'Cup']"
+598,['Straw']
+599,"['Plastic Bag', 'Aluminium Foil']"
+600,"['Straw', 'Cartoon']"
+601,"['Aluminium Foil', 'Can', 'Cartoon']"
+602,"['Cartoon', 'Can']"
+603,"['Cup', 'Plastic Bag']"
+604,"['Wrapper', 'Straw']"
+605,['Straw']
+606,['Aluminium Foil']
+607,"['Can', 'Bottle', 'Wrapper']"
+608,"['Cartoon', 'Straw']"
+609,"['Bottle', 'Cartoon', 'Plastic Bag']"
+610,"['Cartoon', 'Paper']"
+611,"['Straw', 'Paper']"
+612,['Bottle']
+613,"['Straw', 'Plastic Bag', 'Can']"
+614,"['Paper', 'Aluminium Foil', 'Can']"
+615,"['Wrapper', 'Cartoon', 'Bottle']"
+616,"['Bottle Cap', 'Paper']"
+617,"['Bottle', 'Cup']"
+618,['Bottle Cap']
+619,"['Wrapper', 'Aluminium Foil']"
+620,['Bottle Cap']
+621,"['Cartoon', 'Straw']"
+622,"['Plastic Bag', 'Cup']"
+623,"['Can', 'Bottle Cap', 'Paper']"
+624,['Bottle']
+625,['Paper']
+626,"['Plastic Bag', 'Cartoon', 'Wrapper']"
+627,"['Plastic Bag', 'Paper', 'Cup']"
+628,"['Straw', 'Bottle Cap', 'Plastic Bag']"
+629,"['Straw', 'Paper']"
+630,['Bottle Cap']
+631,['Straw']
+632,"['Bottle Cap', 'Wrapper', 'Cup']"
+633,"['Cup', 'Wrapper', 'Can']"
+634,"['Wrapper', 'Plastic Bag']"
+635,['Can']
+636,['Aluminium Foil']
+637,"['Aluminium Foil', 'Paper']"
+638,"['Cup', 'Plastic Bag']"
+639,"['Wrapper', 'Cartoon', 'Paper']"
+640,['Bottle Cap']
+641,['Cup']
+642,"['Bottle', 'Aluminium Foil']"
+643,['Bottle']
+644,"['Wrapper', 'Straw', 'Cup']"
+645,"['Plastic Bag', 'Straw']"
+646,"['Bottle Cap', 'Aluminium Foil']"
+647,"['Straw', 'Cup']"
+648,"['Bottle', 'Cup']"
+649,['Cup']
+650,"['Cartoon', 'Straw']"
+651,"['Bottle Cap', 'Plastic Bag']"
+652,"['Plastic Bag', 'Paper']"
+653,['Cartoon']
+654,"['Plastic Bag', 'Cartoon']"
+655,"['Plastic Bag', 'Can', 'Bottle']"
+656,"['Aluminium Foil', 'Bottle Cap']"
+657,"['Bottle', 'Straw', 'Cartoon']"
+658,['Plastic Bag']
+659,['Cup']
+660,['Cup']
+661,"['Paper', 'Can']"
+662,"['Paper', 'Bottle Cap']"
+663,"['Cup', 'Can', 'Paper']"
+664,['Wrapper']
+665,"['Cartoon', 'Plastic Bag', 'Cup']"
+666,"['Wrapper', 'Straw', 'Bottle Cap']"
+667,['Cartoon']
+668,['Bottle Cap']
+669,"['Can', 'Aluminium Foil']"
+670,['Bottle Cap']
+671,"['Cartoon', 'Cup', 'Bottle Cap']"
+672,['Cartoon']
+673,"['Cup', 'Bottle']"
+674,"['Bottle Cap', 'Cartoon', 'Bottle']"
+675,"['Straw', 'Wrapper']"
+676,['Paper']
+677,"['Bottle Cap', 'Can']"
+678,['Bottle Cap']
+679,"['Wrapper', 'Can']"
+680,['Straw']
+681,"['Can', 'Aluminium Foil']"
+682,"['Paper', 'Cup']"
+683,"['Plastic Bag', 'Bottle', 'Cup']"
+684,"['Cup', 'Bottle']"
+685,"['Bottle Cap', 'Cup', 'Cartoon']"
+686,"['Cartoon', 'Plastic Bag', 'Cup']"
+687,"['Bottle Cap', 'Can', 'Straw']"
+688,"['Cup', 'Paper', 'Aluminium Foil']"
+689,['Bottle']
+690,['Paper']
+691,"['Cartoon', 'Bottle', 'Cup']"
+692,['Aluminium Foil']
+693,['Plastic Bag']
+694,['Bottle Cap']
+695,"['Wrapper', 'Aluminium Foil']"
+696,"['Paper', 'Wrapper']"
+697,"['Plastic Bag', 'Bottle', 'Straw']"
+698,['Bottle']
+699,"['Wrapper', 'Aluminium Foil']"
+700,['Bottle']
+701,"['Aluminium Foil', 'Cup', 'Plastic Bag']"
+702,"['Can', 'Plastic Bag']"
+703,"['Can', 'Cup']"
+704,"['Cartoon', 'Cup', 'Paper']"
+705,"['Paper', 'Bottle', 'Aluminium Foil']"
+706,['Wrapper']
+707,"['Cartoon', 'Cup', 'Can']"
+708,"['Bottle Cap', 'Aluminium Foil']"
+709,['Aluminium Foil']
+710,['Plastic Bag']
+711,"['Aluminium Foil', 'Cup']"
+712,"['Aluminium Foil', 'Bottle Cap', 'Bottle']"
+713,"['Cartoon', 'Straw', 'Plastic Bag']"
+714,"['Straw', 'Cup', 'Plastic Bag']"
+715,"['Paper', 'Cup', 'Can']"
+716,"['Paper', 'Can']"
+717,['Plastic Bag']
+718,"['Cartoon', 'Aluminium Foil']"
+719,"['Can', 'Cartoon', 'Bottle Cap']"
+720,"['Wrapper', 'Plastic Bag']"
+721,"['Straw', 'Can']"
+722,['Straw']
+723,['Aluminium Foil']
+724,"['Bottle', 'Bottle Cap', 'Plastic Bag']"
+725,"['Cup', 'Cartoon', 'Aluminium Foil']"
+726,['Plastic Bag']
+727,"['Aluminium Foil', 'Wrapper', 'Paper']"
+728,"['Aluminium Foil', 'Bottle Cap', 'Straw']"
+729,"['Bottle', 'Straw']"
+730,"['Paper', 'Bottle Cap', 'Can']"
+731,"['Wrapper', 'Cup', 'Bottle Cap']"
+732,"['Paper', 'Plastic Bag']"
+733,"['Cup', 'Bottle', 'Cartoon']"
+734,['Aluminium Foil']
+735,"['Bottle', 'Bottle Cap']"
+736,"['Wrapper', 'Aluminium Foil']"
+737,"['Cup', 'Plastic Bag']"
+738,"['Cartoon', 'Straw', 'Aluminium Foil']"
+739,"['Aluminium Foil', 'Wrapper']"
+740,"['Bottle Cap', 'Wrapper', 'Plastic Bag']"
+741,"['Cup', 'Plastic Bag']"
+742,"['Bottle Cap', 'Paper']"
+743,"['Bottle Cap', 'Can', 'Wrapper']"
+744,"['Plastic Bag', 'Aluminium Foil', 'Bottle']"
+745,['Cup']
+746,['Can']
+747,['Cup']
+748,"['Bottle', 'Paper', 'Can']"
+749,['Cup']
+750,['Bottle']
+751,['Can']
+752,"['Wrapper', 'Plastic Bag']"
+753,['Aluminium Foil']
+754,"['Paper', 'Wrapper', 'Cup']"
+755,"['Cartoon', 'Paper', 'Straw']"
+756,"['Cartoon', 'Bottle']"
+757,"['Cup', 'Cartoon']"
+758,"['Wrapper', 'Paper']"
+759,['Paper']
+760,"['Plastic Bag', 'Bottle', 'Bottle Cap']"
+761,['Plastic Bag']
+762,"['Straw', 'Can']"
+763,['Bottle Cap']
+764,['Can']
+765,"['Aluminium Foil', 'Wrapper']"
+766,"['Aluminium Foil', 'Paper', 'Bottle Cap']"
+767,"['Aluminium Foil', 'Paper']"
+768,"['Straw', 'Bottle']"
+769,['Cup']
+770,"['Bottle', 'Aluminium Foil', 'Paper']"
+771,"['Can', 'Bottle', 'Wrapper']"
+772,"['Straw', 'Bottle Cap']"
+773,"['Bottle Cap', 'Plastic Bag', 'Paper']"
+774,"['Paper', 'Bottle Cap', 'Cup']"
+775,"['Bottle Cap', 'Can']"
+776,['Bottle Cap']
+777,"['Plastic Bag', 'Straw']"
+778,"['Cup', 'Bottle']"
+779,"['Aluminium Foil', 'Wrapper']"
+780,"['Bottle', 'Plastic Bag']"
+781,['Cup']
+782,"['Can', 'Cup']"
+783,['Bottle']
+784,['Bottle']
+785,['Cup']
+786,"['Plastic Bag', 'Bottle Cap', 'Cartoon']"
+787,"['Bottle', 'Wrapper', 'Cartoon']"
+788,"['Straw', 'Bottle', 'Bottle Cap']"
+789,"['Aluminium Foil', 'Wrapper']"
+790,"['Cartoon', 'Aluminium Foil']"
+791,"['Bottle', 'Paper', 'Straw']"
+792,"['Bottle', 'Can']"
+793,['Straw']
+794,"['Can', 'Bottle Cap', 'Cup']"
+795,"['Wrapper', 'Aluminium Foil', 'Cartoon']"
+796,"['Bottle Cap', 'Can']"
+797,['Cartoon']
+798,['Bottle']
+799,['Cartoon']
+800,['Cup']
+801,['Cup']
+802,['Cup']
+803,['Cartoon']
+804,"['Bottle', 'Plastic Bag', 'Aluminium Foil']"
+805,"['Paper', 'Aluminium Foil', 'Bottle']"
+806,"['Cartoon', 'Paper', 'Can']"
+807,"['Can', 'Paper', 'Bottle Cap']"
+808,"['Cartoon', 'Straw']"
+809,"['Cup', 'Bottle Cap', 'Paper']"
+810,['Plastic Bag']
+811,"['Cartoon', 'Aluminium Foil']"
+812,"['Bottle Cap', 'Can']"
+813,['Cartoon']
+814,['Straw']
+815,"['Paper', 'Cup']"
+816,['Paper']
+817,"['Plastic Bag', 'Bottle Cap']"
+818,['Straw']
+819,['Paper']
+820,"['Aluminium Foil', 'Bottle Cap', 'Can']"
+821,"['Aluminium Foil', 'Cartoon', 'Plastic Bag']"
+822,['Wrapper']
+823,"['Cup', 'Paper', 'Bottle Cap']"
+824,['Can']
+825,"['Paper', 'Cup']"
+826,"['Bottle', 'Plastic Bag']"
+827,"['Aluminium Foil', 'Wrapper', 'Can']"
+828,"['Straw', 'Cartoon']"
+829,"['Cup', 'Cartoon', 'Plastic Bag']"
+830,['Bottle Cap']
+831,"['Aluminium Foil', 'Cartoon']"
+832,"['Cartoon', 'Aluminium Foil']"
+833,"['Aluminium Foil', 'Paper']"
+834,"['Wrapper', 'Cup', 'Straw']"
+835,"['Cup', 'Plastic Bag']"
+836,"['Aluminium Foil', 'Wrapper', 'Bottle']"
+837,['Plastic Bag']
+838,['Cartoon']
+839,"['Cartoon', 'Wrapper']"
+840,"['Plastic Bag', 'Straw', 'Wrapper']"
+841,['Straw']
+842,"['Wrapper', 'Aluminium Foil', 'Paper']"
+843,"['Straw', 'Can']"
+844,"['Can', 'Cup']"
+845,['Aluminium Foil']
+846,"['Bottle Cap', 'Can', 'Cartoon']"
+847,"['Straw', 'Aluminium Foil']"
+848,['Straw']
+849,"['Aluminium Foil', 'Can']"
+850,['Plastic Bag']
+851,"['Paper', 'Cup']"
+852,"['Aluminium Foil', 'Bottle Cap', 'Bottle']"
+853,"['Bottle Cap', 'Paper', 'Aluminium Foil']"
+854,['Paper']
+855,['Bottle']
+856,['Straw']
+857,"['Paper', 'Straw', 'Bottle Cap']"
+858,"['Straw', 'Cartoon']"
+859,"['Paper', 'Aluminium Foil', 'Bottle']"
+860,"['Can', 'Bottle']"
+861,['Aluminium Foil']
+862,"['Straw', 'Paper']"
+863,"['Bottle Cap', 'Paper']"
+864,['Straw']
+865,['Bottle Cap']
+866,"['Bottle', 'Can']"
+867,"['Cartoon', 'Can', 'Straw']"
+868,"['Aluminium Foil', 'Wrapper']"
+869,['Bottle Cap']
+870,"['Paper', 'Cartoon', 'Cup']"
+871,"['Paper', 'Plastic Bag']"
+872,"['Bottle', 'Paper', 'Can']"
+873,"['Plastic Bag', 'Paper', 'Bottle Cap']"
+874,"['Aluminium Foil', 'Cartoon', 'Can']"
+875,"['Cartoon', 'Bottle Cap']"
+876,['Aluminium Foil']
+877,['Bottle Cap']
+878,['Bottle']
+879,"['Aluminium Foil', 'Cartoon']"
+880,['Cup']
+881,"['Cup', 'Aluminium Foil']"
+882,"['Bottle', 'Wrapper', 'Can']"
+883,"['Plastic Bag', 'Paper', 'Bottle Cap']"
+884,['Wrapper']
+885,['Cup']
+886,"['Bottle Cap', 'Can']"
+887,['Can']
+888,['Wrapper']
+889,['Plastic Bag']
+890,"['Bottle Cap', 'Aluminium Foil']"
+891,"['Wrapper', 'Paper']"
+892,['Bottle Cap']
+893,['Bottle']
+894,['Wrapper']
+895,"['Aluminium Foil', 'Bottle Cap']"
+896,"['Bottle', 'Wrapper']"
+897,"['Straw', 'Can']"
+898,"['Aluminium Foil', 'Can']"
+899,"['Bottle Cap', 'Cup', 'Straw']"
+900,"['Straw', 'Cup']"
+901,['Bottle']
+902,['Bottle']
+903,"['Aluminium Foil', 'Paper', 'Cartoon']"
+904,['Straw']
+905,"['Aluminium Foil', 'Can', 'Cup']"
+906,"['Bottle Cap', 'Straw']"
+907,"['Paper', 'Cartoon', 'Straw']"
+908,['Aluminium Foil']
+909,['Cup']
+910,"['Cartoon', 'Straw']"
+911,"['Bottle', 'Plastic Bag', 'Wrapper']"
+912,"['Aluminium Foil', 'Cartoon']"
+913,"['Paper', 'Bottle', 'Can']"
+914,"['Cartoon', 'Aluminium Foil', 'Bottle']"
+915,"['Cup', 'Plastic Bag']"
+916,"['Paper', 'Aluminium Foil', 'Straw']"
+917,"['Paper', 'Bottle Cap', 'Wrapper']"
+918,['Paper']
+919,['Plastic Bag']
+920,"['Can', 'Wrapper']"
+921,['Aluminium Foil']
+922,"['Can', 'Cup', 'Cartoon']"
+923,['Can']
+924,['Bottle Cap']
+925,['Aluminium Foil']
+926,"['Wrapper', 'Can', 'Paper']"
+927,"['Cartoon', 'Bottle', 'Wrapper']"
+928,"['Bottle', 'Wrapper']"
+929,['Plastic Bag']
+930,"['Bottle Cap', 'Wrapper', 'Plastic Bag']"
+931,"['Cartoon', 'Wrapper', 'Paper']"
+932,"['Paper', 'Cartoon', 'Plastic Bag']"
+933,"['Aluminium Foil', 'Straw', 'Wrapper']"
+934,"['Cartoon', 'Plastic Bag']"
+935,"['Wrapper', 'Bottle Cap']"
+936,"['Bottle', 'Paper']"
+937,"['Cartoon', 'Can', 'Bottle']"
+938,['Straw']
+939,"['Cup', 'Plastic Bag']"
+940,['Wrapper']
+941,"['Bottle Cap', 'Cartoon']"
+942,"['Can', 'Straw']"
+943,"['Can', 'Aluminium Foil', 'Paper']"
+944,"['Aluminium Foil', 'Bottle']"
+945,['Plastic Bag']
+946,['Cup']
+947,['Plastic Bag']
+948,"['Straw', 'Paper']"
+949,"['Plastic Bag', 'Paper', 'Straw']"
+950,"['Straw', 'Aluminium Foil']"
+951,"['Aluminium Foil', 'Plastic Bag', 'Cartoon']"
+952,"['Plastic Bag', 'Bottle Cap', 'Bottle']"
+953,"['Bottle Cap', 'Bottle', 'Cup']"
+954,"['Cup', 'Bottle Cap', 'Bottle']"
+955,"['Aluminium Foil', 'Wrapper', 'Plastic Bag']"
+956,['Wrapper']
+957,"['Bottle', 'Straw', 'Plastic Bag']"
+958,['Bottle']
+959,"['Wrapper', 'Plastic Bag']"
+960,['Cartoon']
+961,"['Cup', 'Can']"
+962,['Straw']
+963,"['Paper', 'Can', 'Cartoon']"
+964,"['Paper', 'Bottle']"
+965,"['Paper', 'Straw', 'Bottle Cap']"
+966,"['Wrapper', 'Cartoon']"
+967,"['Aluminium Foil', 'Cartoon']"
+968,"['Cartoon', 'Straw']"
+969,['Straw']
+970,"['Paper', 'Wrapper']"
+971,"['Straw', 'Paper', 'Cup']"
+972,"['Cartoon', 'Straw']"
+973,"['Cartoon', 'Paper', 'Cup']"
+974,"['Bottle Cap', 'Can', 'Plastic Bag']"
+975,['Aluminium Foil']
+976,"['Can', 'Plastic Bag']"
+977,"['Wrapper', 'Can']"
+978,"['Paper', 'Wrapper']"
+979,"['Cup', 'Wrapper']"
+980,['Cup']
+981,['Aluminium Foil']
+982,"['Bottle', 'Aluminium Foil', 'Plastic Bag']"
+983,"['Wrapper', 'Paper', 'Straw']"
+984,"['Plastic Bag', 'Wrapper']"
+985,['Plastic Bag']
+986,"['Paper', 'Aluminium Foil']"
+987,['Can']
+988,"['Cartoon', 'Aluminium Foil', 'Bottle']"
+989,"['Bottle', 'Paper', 'Plastic Bag']"
+990,"['Paper', 'Bottle Cap', 'Aluminium Foil']"
+991,['Straw']
+992,"['Straw', 'Aluminium Foil']"
+993,"['Cartoon', 'Straw']"
+994,"['Plastic Bag', 'Bottle', 'Straw']"
+995,"['Wrapper', 'Bottle']"
+996,"['Bottle Cap', 'Cartoon', 'Paper']"
+997,['Wrapper']
+998,['Cup']
+999,['Bottle Cap']
+1000,"['Bottle Cap', 'Bottle']"
