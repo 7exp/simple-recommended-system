@@ -1,4 +1,4 @@
-#1 Install Postgresql and Node.js
-#2 Go to node directory
-#3 Write npm i command in terminal at node directory
-#4 Execute command nodemon index.js
+#1 Install Postgresql and Node.js <br/>
+#2 Go to node directory <br/>
+#3 Write npm i command in terminal at node directory <br/>
+#4 Execute command nodemon index.js <br/>
